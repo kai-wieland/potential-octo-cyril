@@ -1,0 +1,21 @@
+-cp src
+-cp C:/Users/kai.wieland/Documents/FDT-Workspaces/WW-Labs/WW_V2/libs/Converse/src
+-cp C:/Users/kai.wieland/Documents/FDT-Workspaces/WW-Labs/WW_V2/libs/EventManager/src
+-cp C:/Users/kai.wieland/Documents/FDT-Workspaces/WW-Labs/WW_V2/libs/Events/src
+-cp C:/Users/kai.wieland/Documents/FDT-Workspaces/WW-Labs/WW_V2/libs/ListIt/src
+-cp C:/Users/kai.wieland/Documents/FDT-Workspaces/WW-Labs/WW_V2/libs/NodeSelector/src
+-cp C:/Users/kai.wieland/Documents/FDT-Workspaces/WW-Labs/WW_V2/libs/Pipeline/src
+-cp C:/Users/kai.wieland/Documents/FDT-Workspaces/WW-Labs/WW_V2/libs/StateBot/src
+-cp C:/Users/kai.wieland/Documents/FDT-Workspaces/WW-Labs/WW_V2/libs/thirdParty/src
+-cp C:/Users/kai.wieland/Documents/FDT-Workspaces/WW-Labs/WW_V2/libs/Thread/src
+
+-js build/debug/js/WW-Test-HaxeProject.js
+-main de.werbewelt.MainApp
+
+--no-output
+
+--no-traces
+
+-D js-classic
+
+-D js-unflatten

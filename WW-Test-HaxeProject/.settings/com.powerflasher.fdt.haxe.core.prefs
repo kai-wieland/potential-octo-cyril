@@ -1,0 +1,6 @@
+eclipse.preferences.version=1
+hxmlPath=test.hxml
+sdkPath=C\:\\HaxeToolkit\\haxe
+sdkPathOverride=false
+useHaxeCompilerServer=true
+useHaxeCompilerServerDirectProtocol=true
