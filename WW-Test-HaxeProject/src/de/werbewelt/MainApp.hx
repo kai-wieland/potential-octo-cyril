@@ -20,6 +20,6 @@ import js.html.Element;
 		
 		domReady = true;
 		
-		trace("DOCUMENT READY");
+		trace("DOCUMENT READY !");
 	}
 }
